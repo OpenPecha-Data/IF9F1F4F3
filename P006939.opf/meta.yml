@@ -1,5 +1,7 @@
 id: P006939
 initial_creation_type: ocr
+created_at: 28/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG25599
   title: ཡི་དམ་ཆོས་སྐྱོང་ཁག་ཅིག་གི་བྱུང་བ་བརྗོད་པ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 361
       base_file: v001.txt
-ebook_metadata:
-  title: ཡི་དམ་ཆོས་སྐྱོང་ཁག་ཅིག་གི་བྱུང་བ་བརྗོད་པ།
-  author: ''
-  sku: P006939
-  cover: cover.jpg
-  layers:
-  - pagination
